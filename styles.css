@@ -6,3 +6,12 @@ body {
 section{
     background: rgb(84 73 63);
 }
+
+h1 {
+    font-size: 40px;
+  }
+  
+  p {
+    font-size: 20px;
+  }
+  
