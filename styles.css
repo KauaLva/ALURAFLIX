@@ -1,6 +1,6 @@
 body {
-    color:blueviolet ;
-    background-color: white;
+    color: rgb(57, 105, 45) ;
+    background-color: rgb(65, 56, 48)
 }
 
 section{
@@ -15,3 +15,6 @@ h1 {
     font-size: 20px;
   }
   
+  img {
+    height: 200px;
+  }
