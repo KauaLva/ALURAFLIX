@@ -1,20 +1,26 @@
 body {
-    color: rgb(57, 105, 45) ;
-    background-color: rgb(65, 56, 48)
+  color: rgb(57, 105, 45);
+  background-color: rgb(65, 56, 48)
 }
 
-section{
-    background: rgb(84 73 63);
+section {
+  background: rgb(84 73 63);
 }
 
 h1 {
-    font-size: 40px;
-  }
-  
-  p {
-    font-size: 20px;
-  }
-  
-  img {
-    height: 200px;
-  }
+  font-size: 40px;
+}
+
+p {
+  font-size: 20px;
+}
+
+img {
+  height: 200px;
+}
+
+.categoria-videos {
+  display: flex;
+  overflow-x: auto;
+  gap: 10px;
+}
